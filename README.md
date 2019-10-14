@@ -18,7 +18,7 @@ Wiesinger Jonas
 - Edlinger Phillip
 - Scholl Sebastian
 
-## Projektziel
+## Projektergebnis
 
 Eine künstliche Intelligenz, gegen die man in einer Anwendung das Brettspiel *Dame* Spielen kann.
 
