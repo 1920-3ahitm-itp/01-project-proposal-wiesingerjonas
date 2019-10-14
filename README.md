@@ -2,7 +2,7 @@
 
 ## Projektantrag
 
-Ich und mein Team würden gerne eine *Dame-KI* programmieren, gegen welche man in einer Benutzerfreundlichen Oberfläche das beliebte Brettspiel Dame spielen kann.
+Mein Team und Ich würden gerne eine *Dame-KI* programmieren, gegen welche man in einer Benutzerfreundlichen Oberfläche das beliebte Brettspiel Dame spielen kann.
 
 ## Projektname
 
